@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1731084225 source:d:\work\embedded\amit course\programs\c_project_mostafa_eshra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+	"STD.h"
+	"SDBAPP.h"
+
+1731084873 d:\work\embedded\amit course\programs\c_project_mostafa_eshra\sdb.h
+	"STD.h"
+
+1731084633 d:\work\embedded\amit course\programs\c_project_mostafa_eshra\std.h
+
+1731084225 d:\work\embedded\amit course\programs\c_project_mostafa_eshra\sdbapp.h
+
+1731084353 source:d:\work\embedded\amit course\programs\c_project_mostafa_eshra\sdb.c
+	"SDB.h"
+
+1731084330 source:d:\work\embedded\amit course\programs\c_project_mostafa_eshra\sdbapp.c
+	"SDBAPP.h"
+
