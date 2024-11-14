@@ -9,10 +9,11 @@ This project is a Student Database Management System implemented in C, using a d
 2. [Project Structure](#project-structure)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [File Descriptions](#file-descriptions)
-6. [Functions](#functions)
-7. [Example Run](#example-run)
-8. [Notes](#notes)
+5. [Example Run](#example-run)
+6. [File Descriptions](#file-descriptions)
+7. [Functions](#functions)
+8. [Makefile](#makefile)
+9. [Notes](#notes)
 
 ---
 
