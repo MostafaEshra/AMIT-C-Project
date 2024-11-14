@@ -1,23 +1,24 @@
 # depslib dependency file v1.0
-1731596332 source:d:\work\embedded\amit course\programs\c_project_mostafa_eshra\main.c
+1731612817 source:d:\work\embedded\amit course\programs\c_project_mostafa_eshra\main.c
 	<stdio.h>
 	<stdlib.h>
 	"SDB.h"
 	"STD.h"
 	"SDBAPP.h"
 
-1731588574 d:\work\embedded\amit course\programs\c_project_mostafa_eshra\sdb.h
+1731613357 d:\work\embedded\amit course\programs\c_project_mostafa_eshra\sdb.h
 	<stddef.h>
 	"STD.h"
 
-1731586177 d:\work\embedded\amit course\programs\c_project_mostafa_eshra\std.h
+1731613363 d:\work\embedded\amit course\programs\c_project_mostafa_eshra\std.h
 
-1731086748 d:\work\embedded\amit course\programs\c_project_mostafa_eshra\sdbapp.h
+1731613357 d:\work\embedded\amit course\programs\c_project_mostafa_eshra\sdbapp.h
 	"STD.h"
 
-1731597527 source:d:\work\embedded\amit course\programs\c_project_mostafa_eshra\sdb.c
+1731618635 source:d:\work\embedded\amit course\programs\c_project_mostafa_eshra\sdb.c
 	"SDB.h"
 
-1731087123 source:d:\work\embedded\amit course\programs\c_project_mostafa_eshra\sdbapp.c
+1731618434 source:d:\work\embedded\amit course\programs\c_project_mostafa_eshra\sdbapp.c
 	"SDBAPP.h"
+	"STD.h"
 
