@@ -31,6 +31,15 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="SDB.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SDB.h" />
+		<Unit filename="SDBAPP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SDBAPP.h" />
+		<Unit filename="STD.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
