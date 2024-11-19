@@ -156,7 +156,7 @@ clean:
 - **main.o**, **SDBAPP.o**, **SDB.o**: These rules compile each corresponding source file into object files (`.o`).
 - **run**: Runs the executable `out.exe`.
 - **all**: A convenience rule that compiles all source files, links them, and runs the program.
-- **push**: Git commands to add, commit, and push changes to the repository.
+- **push**: Git commands to add, commit, and push changes to the repository with a parameter msg to be added to the commit.
 - **clean**: Removes object files and the final executable to clean up the project directory.
 
 ## Notes
