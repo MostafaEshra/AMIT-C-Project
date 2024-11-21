@@ -1,6 +1,6 @@
 # Student Database Management System (SDB)
 
-This project is a Student Database Management System implemented in C, using a doubly linked list to store and manage student records. It allows users to add, view, list, check, and delete student entries. The system provides a simple console-based interface and several features for handling student data entries.
+This project is a Student Database Management System implemented in C, using a doubly linked list to store and manage student records. It allows users to add, view, list, check, and delete student entries. The system provides a simple console-based interface and several features for handling student data entries. It is part of the Embedded C course in the AMIT Embedded Systems Diploma.
 
 ---
 
